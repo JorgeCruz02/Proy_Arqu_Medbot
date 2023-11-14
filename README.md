@@ -3,10 +3,12 @@ Proyecto final de Arqui
 
 Alumnos:
 
-Fernando Santiago Briseño Milanes
+-Fernando Santiago Briseño Milanes
 
-Jorge Antonio Cruz Molina
+-Jorge Antonio Cruz Molina
 
-Luis Fernando Gomez Vaca
+-Luis Fernando Gomez Vaca
 
-Axel Roldan Carreón
+-Axel Roldan Carreón
+
+Grupo: 700 CIB
