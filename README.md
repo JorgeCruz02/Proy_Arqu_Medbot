@@ -12,3 +12,17 @@ Alumnos:
 -Axel Roldan Carreón
 
 Grupo: 700 CIB
+
+
+Lenguaje: python
+
+Librerias: 
+
+-flet comando pip install flet
+
+-open AI comando pip install openai
+
+-Pyrebase comando pip install pyrebase4
+
+
+La suite que están utilizando para pruebas: pytest
